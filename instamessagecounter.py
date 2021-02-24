@@ -1,5 +1,8 @@
-#Opening the file and reading its contents
-f = open("path_of_file", "r")
+import sys
+#Greeting the user
+print("""A warm welcome to the Instagram Chat Message Counter.\nThis app will tell you the number of messages you have exchanged in specific chats.""")
+#Opening the file with read access
+f = open(sys.argv[1], "r")
 #Assigning the contents of the file to a variable "g"
 g = f.readlines()
 #Creating an initial counter variable
