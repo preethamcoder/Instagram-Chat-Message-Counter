@@ -1,4 +1,4 @@
-#Importing the module to read the path names of all your files containing your chats
+#Importing the module to read the path names of all your files containing chats
 import sys
 #Greeting the user
 print("""A warm welcome to the Instagram Chat Message Counter.\nThis program will tell you the number of messages you have exchanged among all chats including requests.\nThe input is a file containing all the absolute pathnames of your chat files.""")
