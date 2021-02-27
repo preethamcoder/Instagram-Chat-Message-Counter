@@ -21,7 +21,7 @@ for i in g:
     #Iterating through the lines of the code to find a specific sequence
     for l in k:
         #The next statement is optional, but it helps to make the data cryptic and challenging to read
-        print(l[::-1].swapcase().replace("N", "$").replace("A", "#").split())
+        print(l[::-1].swapcase().replace("A", "$*.*$").replace("$", "#*..*#").replace("#*", "@#*!!.!!*#@").replace("#", "!@#$%^&*!@#$*^!$!#@%&asdj").split())
         #Incrementing the message count for the specific chat
         c += l.count("sender_name")
         #Incrementing the message count for all chats thus far
