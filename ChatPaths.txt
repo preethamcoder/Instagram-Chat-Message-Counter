@@ -1,3 +1,3 @@
-"C:\Users\sthe\Downloads\instadata\messages\inbox\charukshirsagar_irjsjyrwqg\message_1.json"
-"C:\Users\sthe\Downloads\instadata\messages\inbox\charagar_irjsjyrwqg\message_1.json"
-"C:\Users\sthe\Downloads\instadata\messages\inbox\carina_irjsjyrwqg\message_1.json"
+"C:\chagar_irjsjyrwqg\message_1.json"
+"C:\rwqg\message_1.json"
+"C:\yrwqg\message_1.json"
